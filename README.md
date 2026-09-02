@@ -1,3 +1,3 @@
 # Alexsandre Junior
 
-Me chamo Alex, sou natural de São Francisco do Sul e atualmente moro em Joinville. Estou no sétimo semestre de Engenharia de Software pela Univille e atuo na Selbetti, no suporte a softwares para impressoras. Tenho interesse em tecnologia, gestão de pessoas e dados, participei de projetos em equipe durante a graduação e atualmente desenvolvo projetos individuais, sempre buscando aprender por meio dos desafios.
+Sou estudante de Engenharia de Software pela Univille e atuo na área de tecnologia, com experiência em suporte e implantação de softwares, análise de logs e troubleshooting em ambientes Windows e Linux. Tenho interesse em Qualidade de Software (QA), testes automatizados e análise de dados, áreas nas quais venho direcionando meu desenvolvimento profissional.
